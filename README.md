@@ -24,7 +24,7 @@ Retrieve and analyze detailed statistics for your Reddit posts with this Python 
 ### 1. Clone or download this repository
 
 ```bash
-git clone https://github.com/codinghubytb/reddit-post-stats
+git clone https://github.com/codinghubytb/reddit-post-stats.git
 cd reddit-post-stats
 ```
 
